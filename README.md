@@ -16,7 +16,7 @@ Personally, I use Subtitle Edit and export as a TTML file
 
 # Español - Instrucciones/Reglas
 
-* Personalmente uso Subtitle Edit yeah exporto como archivo TTML
+* Personalmente uso Subtitle Edit y exporto como archivo TTML
 
 * Crea un nuevo tema aquí y adjunta tu archivo para revisarlo
 
